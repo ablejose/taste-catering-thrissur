@@ -1,0 +1,42 @@
+{
+  "slug": "taste-catering-thrissur",
+  "name": "Taste Catering",
+  "shortName": "Taste",
+  "descriptor": "Catering Services",
+  "address": "32/245b, Mechur Ln, Chiyyaram, Thrissur, Keralam 680026",
+  "area": "Chiyyaram",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680026",
+  "geo": {
+    "lat": 10.494425099999999,
+    "lng": 76.22348319999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=16200408753941350023",
+  "phone": "+91 98950 61553",
+  "whatsapp": "919895061553",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "name": "NIDHIN RAPHAEL MANNUKADAN",
+      "rating": 5,
+      "quote": "One of the best catering services I ever had it in Thrissur,Kerala. Great recipes at affordable prices. Don't miss it. On-time delivery and services. Owner Ratheesh is a very simple guy and suggest menus for your requirement and budget.Keep it up."
+    },
+    {
+      "name": "Shancmohan Shan",
+      "rating": 5,
+      "quote": "This catering service is awesome"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://taste-catering-thrissur.vercel.app"
+}
